@@ -1,6 +1,6 @@
 # lab-02-4C24-2025-GSC
 
-Proyecto clonado
+Cambios desde rep. clonado
 
 # Getting Started
 
